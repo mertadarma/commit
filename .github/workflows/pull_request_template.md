@@ -1,4 +1,4 @@
-## 👋 Thank you for the PR!
+## 👋 Thankyou for the PR!
 
 ### Description:
 
